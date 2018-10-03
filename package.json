@@ -48,7 +48,7 @@
     "electron-is-dev": "^0.3.0",
     "electron-log": "^2.2.16",
     "electron-updater": "^2.23.3",
-    "keytar": "^4.2.1"
+    "keytar": "^4.3.0"
   },
   "devDependencies": {
     "@types/debug": "^0.0.30",
